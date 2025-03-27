@@ -11,7 +11,7 @@
     <source src="animation.mp4" type="video/mp4">
   </video>
 
-  <p><a href="my-animation.wick" download>Download Wick Project</a></p>
+  <p><a href="animation.wick" download>Download Wick Project</a></p>
 
 </body>
 </html>
